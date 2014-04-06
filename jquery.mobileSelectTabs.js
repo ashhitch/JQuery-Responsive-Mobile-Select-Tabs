@@ -15,7 +15,7 @@
         var settings = $.extend({
             // These are the defaults.
             labelText: "view:",
-            aciveClass: ".active",
+            activeClass: ".active",
             snapPoint: 480
         }, options);
 
